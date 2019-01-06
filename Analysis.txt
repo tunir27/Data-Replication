@@ -1,0 +1,26 @@
+communication site 5
+columns to be changed are tid school marks
+
+
+0 to 5 distance 28.2843
+0 to 4 distance 10
+
+0 to 9 distance 92.1954
+
+
+9 to 7 distance 22.3607
+9 to 8 distance 22.3607
+9 to 10 distance 14.1421
+9 to 11 distance 31.6228
+
+sum=220.966
+energy consumption=43.94 if sum of distances to be taken and if not 10.43
+
+5 to 4 distance 36.0555 1299.99
+5 to 7 distance 42.4264 1799.99
+5 to 8 distance 72.111  5199.99
+5 to 10 distance 78.1025 6100.00
+5 to 11 distance 53.8516 2899.99
+
+sum=282.547
+energy consumption=71.85 if sum of distances to be taken and if not 15.56
